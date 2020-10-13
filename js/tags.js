@@ -1,5 +1,8 @@
 var updateTags = function(){
 
+
+    history.pushState({}, "", "/?sort=latest&verified=true")
+
     setInterval(function(){ 
         var myClasses1 = document.getElementsByClassName("dacniG");
 
@@ -93,6 +96,12 @@ var updateTags = function(){
 
 
     }, 500);
+
+   
    
    
 }
+
+window.addEventListener('load', (event) => {
+    updateTags();
+});
