@@ -3,6 +3,6 @@ Today is the non-fungible reality of tomorrow. Turn your products or services in
 
 # Use The dApp
 
-1. Go to https://arweave.net/nKNLMsnS3JX_GNDJJi70tSKr_9Wg9FH20yK2WZH54mU
+1. Go to https://arweave.net/uuXUGHeMS6lEVLZTe6pD9dxRw2CaF1Gb-0m31DKTo9c
 2. Click on marketplace
 3. Trade NFT's and enjoy :)
